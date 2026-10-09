@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Chaudhry Ali Aftab`
+- **CCID:** `caftab`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Claude - Used to explain the participation part of the lab and helped debug.
+
 
 ## Verbal Collaboration
 
